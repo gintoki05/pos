@@ -2,7 +2,7 @@
 <html>
 <head>  
   <title>Produk PDF</title>
-  <link rel="stylesheet" href="{{ asset('public/adminLTE/bootstrap/css/bootstrap.min.css') }}">
+  <link rel="stylesheet" href="{{ asset('/adminLTE/bootstrap/css/bootstrap.min.css') }}">
 </head>
 <body>
  
